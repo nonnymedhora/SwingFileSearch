@@ -91,7 +91,7 @@ public class MyApplication extends JFrame {
 	
 	private void identifyDirsInfo() {
 		try {
-			File dirs = new File("C:\\Users\\Navroz\\eclipseSpaces\\workspace\\SwingFileSearch\\dirs\\");//("/SwingFileSearch/dirs");	//
+			File dirs = new File("C:\\Temp\\SwingFileSearch\\dirs\\");//("/SwingFileSearch/dirs");	//
 			
 			final File[] dirFiles = dirs.listFiles();
 			int numFiles = dirFiles.length;
