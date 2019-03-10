@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///H:/xitiz/HxVidZ/wwwwWwwww/013.part.avi</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///H:/xitiz/HxVidZ/wwwwWwwww/039.mpeg.avi</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///H:/xitiz/HxVidZ/wwwwWwwww/Blondie_Fesser_HoH__pne4l20i.sw1.mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///H:/xitiz/HxVidZ/wwwwWwwww/%5BHandsOnHardcore%5D%20Eva%20Parcker%20(Threesome%20Makes%20It%20Better%20-%2017.02.15)%20rq%20(540p).mp4</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+	</extension>
+</playlist>
